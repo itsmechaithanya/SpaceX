@@ -3,7 +3,7 @@
 ## Setup Instructions
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo.git
+   git clone https://github.com/itsmechaithanya/SpaceX
    ```
 2. Navigate to the project directory:
    ```sh
